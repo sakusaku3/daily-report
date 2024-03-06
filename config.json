@@ -1,0 +1,22 @@
+[
+    {
+        "category": "プロジェクトA",
+        "detail": "準備",
+        "summary": "プロジェクトA.準備"
+    },
+    {
+        "category": "プロジェクトA",
+        "detail": "開発",
+        "summary": "プロジェクトA.開発"
+    },
+    {
+        "category": "プロジェクトB",
+        "detail": "準備",
+        "summary": "プロジェクトB.準備"
+    },
+    {
+        "category": "プロジェクトB",
+        "detail": "特許",
+        "summary": "プロジェクトB.特許"
+    }
+]
